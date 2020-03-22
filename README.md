@@ -8,7 +8,7 @@ More background and how this program came to be in my blog: https://www.ontdekse
 
 Final schedule:
 
-![Final schedule (box version)](https://github.com/gkruiger/schedulizer/blob/master/final-schedule-1.png "Final schedule (box version")
+![Final schedule (box version)](https://github.com/gkruiger/schedulizer/blob/master/final-schedule-1.png "Final schedule (box version)")
 
 And a pretty version:
 
