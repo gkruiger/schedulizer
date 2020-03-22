@@ -13,3 +13,14 @@ Final schedule:
 And a pretty version:
 
 ![Final schedule (pretty version)](https://github.com/gkruiger/schedulizer/blob/master/final-schedule-2.png "Final schedule (pretty version)")
+
+## Running the program
+Find the following lines of code in the program to adjust them to your liking.
+Please be aware that this program can run for a long time, without any way to know in advance when it will finish.
+If it ever will...
+
+```
+findSchedule(
+    10,     // number of teams
+    false   // pretty schedule?
+);```
