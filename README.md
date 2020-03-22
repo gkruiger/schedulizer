@@ -1,5 +1,5 @@
 # schedulizer
-A small program that helped me finding a schedule for 10 teams, that was limited by the following rules
+A small program that helped me find a schedule for 10 teams, that was limited by the following rules:
 - Each team plays each round exactly once, against one other team
 - Each team plays each game only once
 - Each team plays each opponent only once
