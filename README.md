@@ -23,4 +23,5 @@ If it ever will...
 findSchedule(
     10,     // number of teams
     false   // pretty schedule?
-);```
+);
+```
