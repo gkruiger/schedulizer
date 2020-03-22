@@ -16,8 +16,6 @@ And a pretty version:
 
 ## Running the program
 Find the following lines of code in the program to adjust them to your liking.
-Please be aware that this program can run for a long time, without any way to know in advance when it will finish.
-If it ever will...
 
 ```
 findSchedule(
@@ -25,3 +23,6 @@ findSchedule(
     false   // pretty schedule?
 );
 ```
+
+Please be aware that this program can run for a long time, without any way to know in advance when it will finish.
+If it ever will...
